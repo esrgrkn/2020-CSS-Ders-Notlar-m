@@ -1,1 +1,3 @@
-# 2020-CSS-Ders-Notlar-m
+# 2020-CSS-Ders-Notlarim
+
+2020- Yılında ilk CSS çalışmalarım...
